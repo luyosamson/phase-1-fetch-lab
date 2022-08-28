@@ -1,6 +1,3 @@
-
-
-
 const url = "https://anapioficeandfire.com/api/books";
 
 function fetchBooks() {
